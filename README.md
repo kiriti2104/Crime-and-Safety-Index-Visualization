@@ -27,5 +27,9 @@ In the project, we created a web-based visualization using the d3.js library. Th
 Overall, the project aimed to create an interactive and visually appealing resource that enabled users to explore and understand crime rates and safety indices across countries, facilitating well-informed decisions and promoting awareness. 
 
 
+**Dataset**
+
+The datasets are respectively attached to the respective visualization zip files. 
+
 
 
